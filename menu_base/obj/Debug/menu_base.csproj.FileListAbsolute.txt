@@ -1,0 +1,12 @@
+C:\Users\33789\source\repos\menu_base\menu_base\bin\Debug\menu_base.exe.config
+C:\Users\33789\source\repos\menu_base\menu_base\bin\Debug\menu_base.exe
+C:\Users\33789\source\repos\menu_base\menu_base\bin\Debug\menu_base.pdb
+C:\Users\33789\source\repos\menu_base\menu_base\obj\Debug\menu_base.menu.resources
+C:\Users\33789\source\repos\menu_base\menu_base\obj\Debug\menu_base.Properties.Resources.resources
+C:\Users\33789\source\repos\menu_base\menu_base\obj\Debug\menu_base.csproj.GenerateResource.cache
+C:\Users\33789\source\repos\menu_base\menu_base\obj\Debug\menu_base.csproj.CoreCompileInputs.cache
+C:\Users\33789\source\repos\menu_base\menu_base\obj\Debug\menu_base.exe
+C:\Users\33789\source\repos\menu_base\menu_base\obj\Debug\menu_base.pdb
+C:\Users\33789\source\repos\menu_base\menu_base\bin\Debug\Newtonsoft.Json.dll
+C:\Users\33789\source\repos\menu_base\menu_base\bin\Debug\Newtonsoft.Json.xml
+C:\Users\33789\source\repos\menu_base\menu_base\obj\Debug\menu_base.csproj.CopyComplete

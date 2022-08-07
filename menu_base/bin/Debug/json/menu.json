@@ -1,0 +1,196 @@
+[{
+		"id": "player_options",
+		"name": "Player Options",
+		"options": [{
+				"id": "god_mod",
+				"name": "God Mod",
+				"type": "bool"
+			},
+			{
+				"id": "off_radar",
+				"name": "Off Radar",
+				"type": "bool"
+			},
+			{
+				"id": "never_wanted",
+				"name": "Never Wanted",
+				"type": "BOOL"
+			},
+			{
+				"id": "wanted_level",
+				"name": "Wanted Level",
+				"type": "INT",
+				"i": {
+					"min": 0,
+					"max": 5,
+					"inc": 1
+				}
+			},
+			{
+				"id": "run_speed",
+				"name": "Run Speed",
+				"type": "float",
+				"i": {
+					"min": 0,
+					"max": 10,
+					"inc": 1
+				}
+			},
+			{
+				"id": "suicide",
+				"name": "Suicide",
+				"type": "void"
+			}
+		]
+	},
+	{
+		"id": "weapon_options",
+		"name": "Weapon Options",
+		"options": [{
+				"id": "unlimited_ammo",
+				"name": "Unlimited Ammo",
+				"type": "bool"
+			},
+			{
+				"id": "explosive_ammo",
+				"name": "Explosive Ammo",
+				"type": "bool"
+			},
+			{
+				"id": "damage",
+				"name": "Damage",
+				"type": "int",
+				"i": {
+					"min": 0,
+					"max": 999999999,
+					"inc": 10000
+				}
+			},
+			{
+				"id": "reload_speed",
+				"name": "Reload Speed",
+				"type": "float",
+				"i": {
+					"min": 0,
+					"max": 10,
+					"inc": 1
+				}
+			},
+			{
+				"id": "range",
+				"name": "Range",
+				"type": "float",
+				"i": {
+					"min": 0,
+					"max": 8000,
+					"inc": 100
+				}
+			}
+		]
+	},
+	{
+		"id": "vehicle_options",
+		"name": "Vehicle Options",
+		"options": [{
+				"id": "god_mod",
+				"name": "god_mod",
+				"type": "bool"
+			},
+			{
+				"id": "tuning",
+				"name": "Tuning",
+				"options": [
+					{
+						"id": "color",
+						"name": "Color",
+						"options": [
+							{
+								"id": "primay_r",
+								"name": "Primary R",
+								"type": "int",
+								"i": {
+									"min": 0,
+									"max": 255,
+									"inc": 1
+								}
+							},
+							{
+								"id": "primay_g",
+								"name": "Primary G",
+								"type": "int",
+								"i": {
+									"min": 0,
+									"max": 255,
+									"inc": 1
+								}
+							},
+							{
+								"id": "primay_b",
+								"name": "Primary B",
+								"type": "int",
+								"i": {
+									"min": 0,
+									"max": 255,
+									"inc": 1
+								}
+							},
+							{
+								"id": "random_primary",
+								"name": "Random Primary",
+								"type": "void"
+							}
+						]
+					},
+					{
+						"id": "turbo",
+						"name": "turbo",
+						"type": "bool"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "session_options",
+		"name": "Session Options",
+		"options": [{
+
+		}]
+	},
+	{
+		"id": "player_list",
+		"name": "Player List"
+	},
+	{
+		"id": "menu_options",
+		"name": "Menu Options"
+	},
+	{
+		"id": "exit",
+		"name": "exit",
+		"type": "void"
+	},
+	{
+		"id": "exit2",
+		"name": "exit",
+		"type": "void"
+	},
+	{
+		"id": "credit",
+		"name": "credit",
+		"options": [
+			{
+				"id": "create",
+				"name": "Create"
+			},
+			{
+				"id": "by",
+				"name": "by"
+			},
+			{
+				"id": "guizz",
+				"name": "Guizz"
+			}
+		]
+	}
+]
